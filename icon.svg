@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><radialGradient id="g"><stop stop-color="#b72b1d"/><stop offset="1" stop-color="#08101d"/></radialGradient></defs>
+<rect width="512" height="512" rx="112" fill="#08101d"/>
+<circle cx="256" cy="228" r="150" fill="url(#g)" stroke="#e0ad5c" stroke-width="20"/>
+<path d="M256 98 334 228 256 358 178 228Z" fill="#ef6729" stroke="#ffd792" stroke-width="14"/>
+<text x="256" y="455" fill="#f6d28a" font-size="82" font-family="serif" text-anchor="middle" font-weight="700">MU</text>
+</svg>
